@@ -1,0 +1,176 @@
+clycegabriel
+test0--------------
+0 1 22							      |	Lines: 1
+Total 5 different characters, 5 most used characters:	      |	Words: 1
+No. 0: A		6				      |	Characters: 22
+No. 1: a		6				      |	Most used characters:
+No. 2: 0		4				      |	A: 6
+No. 3: 1		4				      |	a: 6
+No. 4: b		2				      |	0: 4
+							      |	1: 4
+Total 1 different identifiers, 1 most used identifiers:	      |	b: 2
+No. 0: aaa001aaa1aaa01aaa01bb		1		      |	Most used identifiers:
+							      |	AAA001aaA1AAa01aaa01bb: 1
+Total 0 different numbers, 0 most used numbers:		      |	Most used numbers:
+test1--------------
+1 8 29							      |	Lines: 1
+Total 18 different characters, 5 most used characters:	      |	Words: 6
+No. 0:  		5				      |	Characters: 23
+No. 1: 2		4				      |	Most used characters:
+No. 2: 0		2				      |	2: 4
+No. 3: 3		2				      |	0: 2
+No. 4: 5		2				      |	3: 2
+							      |	5: 2
+Total 3 different identifiers, 3 most used identifiers:	      |	:: 2
+No. 0: fri		1				      |	Most used identifiers:
+No. 1: dec		1				      |	Fri: 1
+No. 2: est		1				      |	Dec: 1
+							      |	EST: 1
+Total 5 different numbers, 5 most used numbers:		      |	Most used numbers:
+No. 0: 26		1				      |	26: 1
+No. 1: 22		1				      |	22:15:35: 1
+No. 2: 15		1				      |	2003: 1
+No. 3: 35		1				      <
+No. 4: 2003		1				      <
+test2--------------
+8 48 316						      |	Lines: 8
+Total 46 different characters, 5 most used characters:	      |	Words: 48
+No. 0:  		48				      |	Characters: 260
+No. 1: e		30				      |	Most used characters:
+No. 2: t		28				      |	e: 30
+No. 3: a		22				      |	t: 28
+No. 4: i		20				      |	a: 22
+							      |	i: 20
+Total 35 different identifiers, 5 most used identifiers:      |	n: 19
+No. 0: the		5				      |	Most used identifiers:
+No. 1: transaction		3			      |	The: 1
+No. 2: to		3				      |	transaction: 1
+No. 3: is		2				      |	is: 1
+No. 4: expected		2				      |	expected: 1
+							      |	to: 1
+Total 1 different numbers, 1 most used numbers:		      |	Most used numbers:
+No. 0: 2004		1				      |	2004.: 1
+test3--------------
+41399 266179 1632170					      |	Lines: 41399
+Total 96 different characters, 5 most used characters:	      |	Words: 223673
+No. 0:  		216507				      |	Characters: 1368496
+No. 1: e		134425				      |	Most used characters:
+No. 2: t		95379				      |	e: 134425
+No. 3: i		91966				      |	t: 95379
+No. 4: n		87675				      |	i: 91966
+							      |	n: 87675
+Total 8692 different identifiers, 5 most used identifiers:    |	o: 85147
+No. 0: the		16726				      |	Most used identifiers:
+No. 1: in		7408				      |	HTML: 1
+No. 2: of		4820				      |	PUBLIC: 1
+No. 3: a		4426				      |	HTML: 1
+No. 4: and		4215				      |	Transitional//EN">: 1
+							      |	saved: 1
+Total 930 different numbers, 5 most used numbers:	      |	Most used numbers:
+No. 0: 1		7543				      |	4.0: 1
+No. 1: 2		5657				      |	6.00.2800.1276": 1
+No. 2: 0		2698				      |	1993: 1
+No. 3: 3		2287				      |	5757,526296596): 1
+No. 4: 4		1613				      |	2: 1
+test4--------------
+Word aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbb |	Lines: 1
+							      >	Words: 1
+							      >	Characters: 405
+							      >	Most used characters:
+							      >	b: 263
+							      >	c: 103
+							      >	a: 39
+							      >	Most used identifiers:
+							      >	aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbb
+							      >	Most used numbers:
+test5--------------
+1 5 44							      |	Lines: 1
+Total 18 different characters, 5 most used characters:	      |	Words: 3
+No. 0: e		6				      |	Characters: 37
+No. 1: s		6				      |	Most used characters:
+No. 2: \t		3				      |	e: 6
+No. 3:  		3				      |	s: 6
+No. 4: a		3				      |	a: 3
+							      |	b: 3
+Total 3 different identifiers, 3 most used identifiers:	      |	t: 3
+No. 0: james		1				      |	Most used identifiers:
+No. 1: tabsbeforethis		1			      |	James: 1
+No. 2: spacesbeforethis		1			      |	Most used numbers:
+							      |	3tabsbeforethis: 1
+Total 1 different numbers, 1 most used numbers:		      |	3spacesbeforethis: 1
+No. 0: 3		2				      <
+test6--------------
+7 9 39							      |	Lines: 7
+Total 22 different characters, 5 most used characters:	      |	Words: 7
+No. 0: \n		7				      |	Characters: 27
+No. 1:  		5				      |	Most used characters:
+No. 2: 2		4				      |	2: 4
+No. 3: 0		2				      |	0: 2
+No. 4: 3		2				      |	3: 2
+							      |	5: 2
+Total 4 different identifiers, 4 most used identifiers:	      |	:: 2
+No. 0: fri		1				      |	Most used identifiers:
+No. 1: dec		1				      |	Fri: 1
+No. 2: est		1				      |	Dec: 1
+No. 3: asdf		1				      |	EST: 1
+							      |	asdf: 1
+Total 5 different numbers, 5 most used numbers:		      |	Most used numbers:
+No. 0: 26		1				      |	26: 1
+No. 1: 22		1				      |	22:15:35: 1
+No. 2: 15		1				      |	2003: 1
+No. 3: 35		1				      <
+No. 4: 2003		1				      <
+test7--------------
+7 9 41							      |	Lines: 7
+Total 23 different characters, 5 most used characters:	      |	Words: 7
+No. 0: \n		7				      |	Characters: 27
+No. 1:  		4				      |	Most used characters:
+No. 2: 2		4				      |	2: 4
+No. 3: \t		3				      |	0: 2
+No. 4: 0		2				      |	3: 2
+							      |	5: 2
+Total 4 different identifiers, 4 most used identifiers:	      |	:: 2
+No. 0: fri		1				      |	Most used identifiers:
+No. 1: dec		1				      |	Fri: 1
+No. 2: est		1				      |	Dec: 1
+No. 3: asdf		1				      |	EST: 1
+							      |	asdf: 1
+Total 5 different numbers, 5 most used numbers:		      |	Most used numbers:
+No. 0: 26		1				      |	26: 1
+No. 1: 22		1				      |	22:15:35: 1
+No. 2: 15		1				      |	2003: 1
+No. 3: 35		1				      <
+No. 4: 2003		1				      <
+test8--------------
+3 3 12							      |	Lines: 3
+Total 2 different characters, 2 most used characters:	      |	Words: 3
+No. 0: a		9				      |	Characters: 9
+No. 1: \n		3				      |	Most used characters:
+							      |	a: 9
+Total 1 different identifiers, 1 most used identifiers:	      |	Most used identifiers:
+No. 0: aaa		3				      |	aaa: 1
+							      |	aaa: 1
+Total 0 different numbers, 0 most used numbers:		      |	aaa: 1
+							      >	Most used numbers:
+test9--------------
+119 675 5188						      |	Lines: 119
+Total 55 different characters, 5 most used characters:	      |	Words: 122
+No. 0: _		415				      |	Characters: 5066
+No. 1: 2		377				      |	Most used characters:
+No. 2: r		338				      |	_: 415
+No. 3: a		319				      |	2: 377
+No. 4: 1		312				      |	r: 338
+							      |	a: 319
+Total 160 different identifiers, 5 most used identifiers:     |	1: 312
+No. 0: tar		103				      |	Most used identifiers:
+No. 1: proj1		98				      |	aikendane_255025_25315185_proj1.cpp: 1
+No. 2: late		32				      |	aikendane_255025_25315186_Makefile: 1
+No. 3: cpp		7				      |	alfonsoallen_287561_25318367_proj1.tar: 1
+No. 4: project1		7				      |	allenaiden_260770_25306535_proj1_done.tar: 1
+							      |	altonjohn_168200_25316595_proj1.tar.gz: 1
+Total 234 different numbers, 5 most used numbers:	      |	Most used numbers:
+No. 0: 1		14				      <
+No. 1: 2		4				      <
+No. 2: 255025		2				      <
+No. 3: 3		2				      <
+No. 4: 23247		2				      <
